@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Math-Calculator/static/css/main.e38548a0.chunk.css",
+    "main.js": "/Math-Calculator/static/js/main.d04c823b.chunk.js",
+    "main.js.map": "/Math-Calculator/static/js/main.d04c823b.chunk.js.map",
+    "runtime-main.js": "/Math-Calculator/static/js/runtime-main.17170faf.js",
+    "runtime-main.js.map": "/Math-Calculator/static/js/runtime-main.17170faf.js.map",
+    "static/js/2.0f7e32b8.chunk.js": "/Math-Calculator/static/js/2.0f7e32b8.chunk.js",
+    "static/js/2.0f7e32b8.chunk.js.map": "/Math-Calculator/static/js/2.0f7e32b8.chunk.js.map",
+    "static/js/3.32f08123.chunk.js": "/Math-Calculator/static/js/3.32f08123.chunk.js",
+    "static/js/3.32f08123.chunk.js.map": "/Math-Calculator/static/js/3.32f08123.chunk.js.map",
+    "index.html": "/Math-Calculator/index.html",
+    "static/css/main.e38548a0.chunk.css.map": "/Math-Calculator/static/css/main.e38548a0.chunk.css.map",
+    "static/js/2.0f7e32b8.chunk.js.LICENSE.txt": "/Math-Calculator/static/js/2.0f7e32b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17170faf.js",
+    "static/js/2.0f7e32b8.chunk.js",
+    "static/css/main.e38548a0.chunk.css",
+    "static/js/main.d04c823b.chunk.js"
+  ]
+}
